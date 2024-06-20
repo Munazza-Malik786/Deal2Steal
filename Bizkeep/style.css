@@ -1,0 +1,608 @@
+body {
+    color: #505e6b;
+    font-family: sans-serif !important;
+
+}
+#header-icon{
+    padding-left: 175px;
+}
+.active{
+    color: #16a8aa;
+}
+.header {
+    border-bottom: 1px solid #f1f1f1 !important;
+    overflow: hidden;
+    padding: 12px 0px 12px 0px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #14305d !important;
+    margin-left: 8px;
+    font-family: var(--e-global-typography-253c853-font-family), Sans-serif;
+}
+#logo {
+    height: 30px;
+}
+.phone{
+    padding-left: 26px;
+}
+
+img {
+    object-fit: cover;
+    max-width: 100%;
+}
+
+.col-md-6 img {
+    height: 100%;
+}
+
+.about-bizkeep {
+    font-weight: 700;
+    border-bottom: #16a8aa 3px solid;
+    padding-bottom: 7px;
+    color: #14305d;
+}
+
+.Our-cases {
+    font-weight: 700;
+    border-bottom: #16a8aa solid 3px;
+    padding-bottom: 4px;
+}
+
+.our-blogs {
+    font-weight: 700;
+    border-bottom: #16a8aa solid 3px;
+    padding-bottom: 4px;
+}
+.our-blogs-row{
+    font-weight: 400;
+    padding-bottom: 5%;
+    padding-top: 8%;
+}
+
+.our-services {
+    font-weight: 700;
+    border-bottom: #16a8aa 3px solid;
+    padding-bottom: 10px;
+}
+
+.who-we-are {
+    font-weight: 700;
+    border-bottom: #16a8aa 4px solid;
+    padding-bottom: 7px;
+
+}
+
+.choose-us {
+    font-weight: 700;
+    border-bottom: #16a8aa 3px solid;
+    padding-bottom: 8px;
+}
+
+.testimonial {
+    border-bottom: #16a8aa solid 3px;
+}
+
+.bg_primary {
+    background-color: #14305d;
+}
+
+.primary {
+    color: #14305d;
+}
+
+.bg_success {
+    background-color: #16a8aa;
+    padding: 39%;
+    border-radius: 100%;
+    color: #fff;
+    font-weight: 700;
+}
+
+.success {
+    color: #16a8aa;
+}
+
+.primary-container {
+    margin-top: 22%;
+    color: #fff;
+
+}
+
+.a {
+    text-decoration: none;
+}
+
+.row .col-md-2 a,
+.collapse a {
+    text-decoration: none;
+    padding-left: 25px
+}
+
+.icon a :hover {
+    color: #16a8aa;
+}
+
+
+.logo_a {
+    margin-left: 20px;
+    width: 15%;
+
+}
+
+.collapse {
+    padding-left: 10%;
+}
+
+.logo {
+    width: 100%;
+}
+
+
+
+.blur {
+    color: #90a4ae;
+    /* color: #14305d; */
+}
+
+.img1 {
+
+    background-position: fixed;
+    background-size: cover;
+    background-position: right;
+    background-image: url(assets/img/business-meeting-in-modern-conference-room-e1638180914840.jpg);
+}
+
+.hero-card {
+    /* position: absolute; */
+    top: 89px;
+    padding: 24px 13px 34px 13px;
+    border-radius: 0%;
+}
+
+.hero-card2 {
+    top: 27rem;
+    width: 100%;
+    padding: 50px;
+    border-radius: 0%;
+}
+
+.icon {
+    color: #16a8aa;
+}
+
+.need {
+    font-size: 14px;
+    color: #000;
+}
+
+
+.color_text {
+    color: #16a8aa;
+}
+
+hr {
+    width: 15%;
+    height: 15px;
+    color: #16a8aa;
+}
+
+
+.contact:hover {
+    background-color: #14305d;
+    color: #14305d;
+
+}
+
+.contact {
+    width: 100%;
+    height: 53px;
+    background-color: #16a8aa;
+    border-radius: 0%;
+}
+
+.data-purecounter{
+    font-weight: 500; font-size: 30px;
+}
+.collapse {
+    /* padding-left: 4%; */
+}
+
+.rounded-circle {
+    padding: 9px 13px 9px 13px;
+    color: #16a8aa;
+    border: 1px solid #16a8aa;
+}
+
+.rounded-circle:hover {
+    background-color: #16a8aa;
+    color: #fff;
+}
+
+.rounded-circle2 {
+    color: #16a8aa;
+    border-radius: 100%;
+    padding: 12px 14px 10px 14px;
+    border: 1px solid #16a8aa;
+    background: white;
+}
+
+.rounded-circle2:hover {
+    background-color: #16a8aa;
+    color: #fff;
+}
+
+.fa-play {
+    padding: 8px;
+}
+
+.progress {
+    border-radius: 0;
+    margin-top: 10px;
+    margin-bottom: 23px;
+}
+
+.img2 {
+    width: 100%;
+    height: 100%;
+}
+
+.section3 {
+    margin-top: 6%;
+    background-color: #14305d;
+    color: white;
+}
+
+.hero-card-section {
+    padding-bottom: 0;
+}
+
+.progress-bar {
+    background-color: #16a8aa;
+}
+
+.devided_row {
+    padding: 9%;
+    background-color: #16a8aa;
+}
+
+.main_div {
+    font-size: 15px;
+}
+
+.p-4 {
+    margin-left: 5%;
+}
+
+
+.section2 {
+    margin: 12px;
+}
+
+.border-left {
+    border-left: 3px solid #16a8aa;
+    padding-left: 10%;
+}
+
+.section-imgs {
+    padding-top: 24%;
+}
+
+
+.advance {
+    color: #fff;
+    padding: 5% 4% 4% 4%;
+    background-color: #14305d;
+}
+
+.more_about {
+    color: #fff;
+    width: 100%;
+    height: 53px;
+    background-color: #16a8aa;
+    border-radius: 0%;
+}
+
+.more_about:hover {
+    box-shadow: #90a4ae66 0px 1px 0px 2px;
+    background-color: #fff;
+    color: #14305d;
+}
+
+.left-img-card {
+    padding: 5% 5% 5% 5%;
+    border-radius: 0%;
+    top: 65%;
+    left: 7%;
+    right: 7%;
+}
+
+.text-color {
+    color: #14305d;
+}
+
+.section-img-1 {
+    text-align: center;
+    padding: 13%;
+    border-radius: 0%;
+    top: 50%;
+    left: 7%;
+    right: 7%;
+}
+.section-img-1:hover, .section-img-2:hover, .section-img-3:hover, .our-blogs-card:hover{
+    margin-top: 30px;
+    box-shadow: 0px 3px 5px 0px #14315f79;
+    -webkit-transition: all .5s ease-out;
+}
+
+.section-img-2 {
+    text-align: center;
+    padding: 13%;
+    border-radius: 0%;
+    top: 50%;
+    left: 7%;
+    right: 7%;
+}
+
+.section-img-3 {
+    text-align: center;
+    padding: 13%;
+    border-radius: 0%;
+    top: 50%;
+    left: 7%;
+    right: 7%;
+}
+
+.p {
+    color: #fff;
+}
+
+.primary-container h2 {
+    padding-bottom: 5px;
+}
+
+.paragraph {
+    color: #90a4ae;
+}
+
+.Professional {
+    color: #14305d;
+    padding: 4%;
+}
+
+.span {
+    padding-left: 20%;
+}
+
+.free {
+    background-color: #16a8aa;
+    padding: 4%;
+}
+
+
+
+.testimonials-container {
+    padding-top: 0%;
+}
+
+.testimonials-img {
+    height: 300px;
+    border-radius: 0%;
+    top: 50%;
+    left: 7%;
+    right: 7%;
+}
+
+.testimonials-row {
+    padding: 288px 82px 107px 139px;
+    border-radius: 0%;
+}
+
+
+.bg_img {
+    background-attachment: fixed;
+    margin-top: 5%;
+    background-size: cover;
+    background-image: url(assets/img/team-of-cheerful-business-people-in-meeting-e1638180830256.jpg);
+}
+
+
+.hero-card3 {
+    top: 62rem;
+    width: 100%;
+    padding: 50px;
+    border-radius: 0%;
+}
+
+.card_primary {
+    top: 60rem;
+    width: 100%;
+    padding: 50px;
+    border-radius: 0%;
+}
+
+.Testimonials {
+    background-color: #061938;
+    height: 100vh;
+    padding-top: 20%;
+    position: relative;
+    margin-top: 25%;
+}   
+.Testimonials .span {
+    border-bottom: 4px #16a8aa solid;
+    color: #ffffff;
+}
+.carousel {
+    background: #ffffff;
+}
+
+.carousel-cell {
+    width: 100%;
+    background: rgb(255, 255, 255);
+    border-radius: 1px;
+    line-height: 30px;
+    padding: 20px 20px;
+    margin: 15px;
+}
+
+.carousel-cell:before {
+    display: block;
+    text-align: center;
+    line-height: 200px;
+    font-size: 80px;
+}
+
+.carousel-cell img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+}
+#contact{
+    background-color: #16a8aa;
+    border-radius: 0%;
+    color: #fff;
+}
+#contact:hover{
+    background-color: #fff;
+    color: #14305d;
+    box-shadow: 1px 0px 23px 3px #16a8aa;
+
+}
+.border-div {
+    line-height: 50px;
+    margin-top: 2%;
+    border-top: 2px dashed #16a8aa52;
+}
+
+.testimo {
+    border-radius: 0%;
+    top: 50%;
+}
+
+.footer img {
+    width: 80%;
+}
+
+.footer-quick-links span {
+    border-bottom: 3px solid #16a8aa;
+    padding-bottom: 10px;
+}
+
+.footer-quick-links a:hover {
+    color: #16a8aa;
+    /* padding-left: 12px; */
+}
+
+.footer-quick-links a {
+    color: #ffffff;
+}
+
+.footer-useful-links span {
+    border-bottom: 3px solid #16a8aa;
+    padding-bottom: 10px;
+}
+
+.footer-useful-links a:hover {
+    color: #16a8aa;
+    -webkit-transition: all .5s ease-out;
+}
+
+.footer-useful-links a {
+    color: #ffffff;
+}
+
+.footer-timming span {
+    border-bottom: 3px solid #16a8aa;
+    padding-bottom: 10px;
+    color: #fff;
+}
+
+.footer-timming button {
+    background-color: #16a8aa;
+    color: #fff;
+    border-radius: 0%;
+}
+
+.footer-timming button:hover {
+    background-color: #ffffff;
+    color: #14305d;
+    -webkit-transition: all .5s ease-out;
+}
+
+.footer-container {
+    padding-bottom: 110px;
+    border-bottom: 1px solid #DDDDDD42;
+}
+.footer {
+    position: relative;
+    background-color: #14305d;
+    margin-top: 20%;
+    padding-top: 13%;
+    text-align: left;
+}
+.subscribed-position {
+    position: absolute;
+    box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    left: 7.5%;
+    top: -20%;
+    padding: 50px;
+}
+
+.subscribed-position h4 {
+    color: #14305d;
+}
+/* @media (min-width: 1200px){
+.col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+} */
+@media screen and (max-width: 1200px) {
+    #header-icon{
+        display: none;
+    }
+    .hero-card{
+        /* display: none; */
+    }
+
+    .left-img-card{
+        display: none;
+    }
+    .comment-box{
+        display: none;
+    }
+    .about-bizkeep-row{
+        margin-top: 20px;
+    }
+    .advance{
+        margin-top: 20px;
+    }
+    .devided_row{
+        margin-top: 20px;
+    }
+    .all-services-btn{
+        margin-top: 20px;
+    }
+    .bussiness-card{
+        margin-bottom: 50%;
+    }
+    .hero-card2{
+        display: none;
+    }
+    .testimonials-img{
+        margin-bottom: 12%;
+    }
+    .testimonials-container{
+        display: none;
+    }
+    .our-blogs-card{
+        margin-top: 5%;
+    }
+    .subscribed-position{
+        display: none;
+    }
+    .nav-container{
+        margin-top: 5%;
+    }
+}
